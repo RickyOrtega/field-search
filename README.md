@@ -2,6 +2,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Java](https://img.shields.io/badge/Java-17+-brightgreen)
 ![JPA](https://img.shields.io/badge/JPA-Compatible-orange)
+[![JitPack](https://jitpack.io/v/com.github.rickyortega/field-search.svg)](https://jitpack.io/#com.github.rickyortega/field-search)
 
 **Field-Search** is a lightweight Java library that enables **dynamic field-based queries** in JPA, allowing you to select specific fields and apply filters without writing SQL or JPQL manually.
 
